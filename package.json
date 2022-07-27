@@ -1,0 +1,25 @@
+{
+  "name": "@mayank-sagar/csv-seeder",
+  "version": "1.0.0",
+  "description": "Modify your csv's to seed your database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayank-sagar/-mayank-csv-seeder.git"
+  },
+  "keywords": [
+    "csv",
+    "seeder",
+    "mayank-csv-seeder",
+    "change csv"
+  ],
+  "author": "Mayank Sagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayank-sagar/-mayank-csv-seeder/issues"
+  },
+  "homepage": "https://github.com/mayank-sagar/-mayank-csv-seeder#readme"
+}
